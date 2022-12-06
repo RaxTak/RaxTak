@@ -7,5 +7,5 @@
 </div>
 <div>
 <h3 align="center">My GitHub Stats</h3>
-<p align="center"><a href="https://github.com/RaxTak"><img src="https://github-readme-stats.vercel.app/api?username=RaxTak&count_private=true&show_icons=true&theme=dark&card_width=400px&hide=issues&include_all_commits=true&hide_title=true"></a></p>
+<p align="center"><a href="https://github.com/RaxTak"><img src="https://github-readme-stats.vercel.app/api?username=RaxTak&count_private=true&show_icons=true&theme=transparent&card_width=400px&hide=issues&include_all_commits=true&hide_title=true&hide_border=true"></a></p>
 </div>

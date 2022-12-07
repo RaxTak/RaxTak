@@ -1,4 +1,5 @@
 <div><h1 align="center">👋Welcome to my GitHub Profile</h1></div>
+<div><p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&duration=800&pause=500&color=105783&center=true&vCenter=true&width=800&lines=A+tech+enthusiast;A+programmer;A+singer;A+musician" alt="Typing SVG" /></a></p></div>
 <div><h3 align="center">Connect with me</h3>
 <p align="center"><a href="twitter.com/RaxTak"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" width="40px" alt="twitter"/></a> <a href="https://discord.com/users/1000376285320728606"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="discord" width="40px"></a></p>
 </div>

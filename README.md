@@ -9,5 +9,5 @@
 </div>
 <div>
 <div><h3 align="left">Tools</h3>
-<p align="left"><a href=""><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50px" alt="vsc"></a> <a href=""><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50px" alt="vsc"></a></p>
+<p align="left"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50px" alt="vsc"></a> <a href="https://archlinux.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/800px-Archlinux-icon-crystal-64.svg.png" height="50px" alt="vsc"></a></p>
 </div>

@@ -1,5 +1,5 @@
 <div><h1 align="center">👋Welcome to my GitHub Profile</h1></div>
-<span align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&duration=800&pause=500&color=105783&width=300&lines=A+tech+enthusiast;A+programmer;A+singer;A+musician" alt="Typing SVG" /></a></span>
+<span align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&duration=800&pause=500&vCenter=true&color=105783&width=300&lines=A+tech+enthusiast;A+programmer;A+singer;A+musician" alt="Typing SVG" /></a></span>
 <span><img src="https://github-readme-stats.vercel.app/api?username=RaxTak&count_private=true&show_icons=true&theme=transparent&hide=issues&include_all_commits=true&hide_title=true&hide_border=true" align="right"/></span>
 <div><h3 align="left">Connect with me</h3>
 <p align="left"><a href="twitter.com/RaxTak"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" width="50px" alt="twitter"/></a> <a href="https://discord.com/users/1000376285320728606"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="discord" width="50px"></a></p>
